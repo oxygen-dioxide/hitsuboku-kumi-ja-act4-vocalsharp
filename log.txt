@@ -1,0 +1,609 @@
+
+    Directory: E:\Music-----------------\vocalsharp\Singers\kumijpn\D5
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2021/12/13    16:20         427016 a-a-i-a-u-a-e.scep
+-a---          2021/12/13    16:20           6676 a-a-i-a-u-a-e.vssf
+-a---           2021/5/27    22:18         854404 a-a-i-a-u-a-e.wav
+-a---          2021/12/13    16:20         421384 ba-ba-bi-ba-bu-ba-n-ba.sc
+                                                  ep
+-a---          2021/12/13    16:20           6588 ba-ba-bi-ba-bu-ba-n-ba.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 ba-ba-bi-ba-bu-ba-n-ba.wa
+                                                  v
+-a---          2021/12/13    16:17         427016 be-be-bo-be-ba-be-n-be.sc
+                                                  ep
+-a---          2021/12/13    16:17           6676 be-be-bo-be-ba-be-n-be.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 be-be-bo-be-ba-be-n-be.wa
+                                                  v
+-a---          2021/12/13    16:21         427016 bi-bi-bu-bi-be-bi-n-bi.sc
+                                                  ep
+-a---          2021/12/13    16:21           6676 bi-bi-bu-bi-be-bi-n-bi.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 bi-bi-bu-bi-be-bi-n-bi.wa
+                                                  v
+-a---          2021/12/13    16:17         429576 bo-bo-ba-bo-bi-bo-n-bo.sc
+                                                  ep
+-a---          2021/12/13    16:17           6716 bo-bo-ba-bo-bi-bo-n-bo.vs
+                                                  sf
+-a---           2021/5/27    22:18         859916 bo-bo-ba-bo-bi-bo-n-bo.wa
+                                                  v
+-a---           2021/5/27    22:18        1223708 br1.wav
+-a---           2021/5/27    22:18         633924 br2.wav
+-a---          2021/12/13    16:18         429576 bu-bu-be-bu-bo-bu-n-bu.sc
+                                                  ep
+-a---          2021/12/13    16:18           6716 bu-bu-be-bu-bo-bu-n-bu.vs
+                                                  sf
+-a---           2021/5/27    22:18         859916 bu-bu-be-bu-bo-bu-n-bu.wa
+                                                  v
+-a---          2021/12/13    16:20         427016 bya-bya-bi-bya-byu-bya-be
+                                                  -bya-n-bya.scep
+-a---          2021/12/13    16:20           6676 bya-bya-bi-bya-byu-bya-be
+                                                  -bya-n-bya.vssf
+-a---           2021/5/27    22:18         854404 bya-bya-bi-bya-byu-bya-be
+                                                  -bya-n-bya.wav
+-a---          2021/12/13    16:17         429576 byo-byo-bi-byo-bya-byo-be
+                                                  -byo-n-byo.scep
+-a---          2021/12/13    16:17           6716 byo-byo-bi-byo-bya-byo-be
+                                                  -byo-n-byo.vssf
+-a---           2021/5/27    22:18         859916 byo-byo-bi-byo-bya-byo-be
+                                                  -byo-n-byo.wav
+-a---          2021/12/13    16:19         421384 byu-byu-bi-byu-byo-byu-be
+                                                  -byu-n-byu.scep
+-a---          2021/12/13    16:19           6588 byu-byu-bi-byu-byo-byu-be
+                                                  -byu-n-byu.vssf
+-a---           2021/5/27    22:18         843380 byu-byu-bi-byu-byo-byu-be
+                                                  -byu-n-byu.wav
+-a---          2021/12/13    16:20         423944 cha-cha-chi-cha-chu-cha-t
+                                                  e-cha-n-cha.scep
+-a---          2021/12/13    16:20           6628 cha-cha-chi-cha-chu-cha-t
+                                                  e-cha-n-cha.vssf
+-a---           2021/5/27    22:18         848892 cha-cha-chi-cha-chu-cha-t
+                                                  e-cha-n-cha.wav
+-a---          2021/12/13    16:20         423944 chi-chi-tsu-chi-te-chi-n-
+                                                  chi.scep
+-a---          2021/12/13    16:20           6628 chi-chi-tsu-chi-te-chi-n-
+                                                  chi.vssf
+-a---           2021/5/27    22:18         848892 chi-chi-tsu-chi-te-chi-n-
+                                                  chi.wav
+-a---          2021/12/13    16:18         421384 cho-cho-chi-cho-cha-cho-t
+                                                  e-cho-n-cho.scep
+-a---          2021/12/13    16:18           6588 cho-cho-chi-cho-cha-cho-t
+                                                  e-cho-n-cho.vssf
+-a---           2021/5/27    22:18         843380 cho-cho-chi-cho-cha-cho-t
+                                                  e-cho-n-cho.wav
+-a---          2021/12/13    16:17         421384 chu-chu-chi-chu-cho-chu-t
+                                                  e-chu-n-chu.scep
+-a---          2021/12/13    16:17           6588 chu-chu-chi-chu-cho-chu-t
+                                                  e-chu-n-chu.vssf
+-a---           2021/5/27    22:18         843380 chu-chu-chi-chu-cho-chu-t
+                                                  e-chu-n-chu.wav
+-a---          2021/12/13    16:19         427016 da-da-i-da-de-da-u-da-n-d
+                                                  a.scep
+-a---          2021/12/13    16:19           6676 da-da-i-da-de-da-u-da-n-d
+                                                  a.vssf
+-a---           2021/5/27    22:18         854404 da-da-i-da-de-da-u-da-n-d
+                                                  a.wav
+-a---          2021/12/13    16:16         427016 de-de-i-de-do-de-u-de-n-d
+                                                  e.scep
+-a---          2021/12/13    16:16           6676 de-de-i-de-do-de-u-de-n-d
+                                                  e.vssf
+-a---           2021/5/27    22:18         854404 de-de-i-de-do-de-u-de-n-d
+                                                  e.wav
+-a---           2021/5/27    22:18          32022 desc.mrq
+-a---          2021/12/13    16:16         427016 do-do-i-do-da-do-u-do-n-d
+                                                  o.scep
+-a---          2021/12/13    16:16           6676 do-do-i-do-da-do-u-do-n-d
+                                                  o.vssf
+-a---           2021/5/27    22:18         854404 do-do-i-do-da-do-u-do-n-d
+                                                  o.wav
+-a---          2021/12/13    16:18         429576 e-e-o-e-n-e-a.scep
+-a---          2021/12/13    16:18           6716 e-e-o-e-n-e-a.vssf
+-a---           2021/5/27    22:18         859916 e-e-o-e-n-e-a.wav
+-a---          2021/12/13    16:21         132104 empty.scep
+-a---          2021/12/13    16:21           2068 empty.vssf
+-a---          2021/12/11     9:07         534296 empty.wav
+-a---          2021/12/13    16:19         418824 ga-ga-gi-ga-gu-ga-n-ga.sc
+                                                  ep
+-a---          2021/12/13    16:19           6548 ga-ga-gi-ga-gu-ga-n-ga.vs
+                                                  sf
+-a---           2021/5/27    22:18         837868 ga-ga-gi-ga-gu-ga-n-ga.wa
+                                                  v
+-a---          2021/12/13    16:21         418824 ge-ge-go-ge-ga-ge-n-ge.sc
+                                                  ep
+-a---          2021/12/13    16:21           6548 ge-ge-go-ge-ga-ge-n-ge.vs
+                                                  sf
+-a---           2021/5/27    22:18         837868 ge-ge-go-ge-ga-ge-n-ge.wa
+                                                  v
+-a---          2021/12/13    16:19         421384 gi-gi-gu-gi-ge-gi-n-gi.sc
+                                                  ep
+-a---          2021/12/13    16:19           6588 gi-gi-gu-gi-ge-gi-n-gi.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 gi-gi-gu-gi-ge-gi-n-gi.wa
+                                                  v
+-a---          2021/12/13    16:17         421384 go-go-ga-go-gi-go-n-go.sc
+                                                  ep
+-a---          2021/12/13    16:17           6588 go-go-ga-go-gi-go-n-go.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 go-go-ga-go-gi-go-n-go.wa
+                                                  v
+-a---          2021/12/13    16:16         418824 gu-gu-ge-gu-go-gu-n-gu.sc
+                                                  ep
+-a---          2021/12/13    16:16           6548 gu-gu-ge-gu-go-gu-n-gu.vs
+                                                  sf
+-a---           2021/5/27    22:18         837868 gu-gu-ge-gu-go-gu-n-gu.wa
+                                                  v
+-a---          2021/12/13    16:19         421384 gya-gya-gi-gya-gyu-gya-ge
+                                                  -gya-n-gya.scep
+-a---          2021/12/13    16:19           6588 gya-gya-gi-gya-gyu-gya-ge
+                                                  -gya-n-gya.vssf
+-a---           2021/5/27    22:18         843380 gya-gya-gi-gya-gyu-gya-ge
+                                                  -gya-n-gya.wav
+-a---          2021/12/13    16:16         418824 gyo-gyo-gi-gyo-gya-gyo-ge
+                                                  -gyo-n-gyo.scep
+-a---          2021/12/13    16:16           6548 gyo-gyo-gi-gyo-gya-gyo-ge
+                                                  -gyo-n-gyo.vssf
+-a---           2021/5/27    22:18         837868 gyo-gyo-gi-gyo-gya-gyo-ge
+                                                  -gyo-n-gyo.wav
+-a---          2021/12/13    16:18         421384 gyu-gyu-gi-gyu-gyo-gyu-ge
+                                                  -gyu-n-gyu.scep
+-a---          2021/12/13    16:18           6588 gyu-gyu-gi-gyu-gyo-gyu-ge
+                                                  -gyu-n-gyu.vssf
+-a---           2021/5/27    22:18         843380 gyu-gyu-gi-gyu-gyo-gyu-ge
+                                                  -gyu-n-gyu.wav
+-a---          2021/12/13    16:19         427016 ha-ha-hi-ha-hu-ha-n-ha.sc
+                                                  ep
+-a---          2021/12/13    16:19           6676 ha-ha-hi-ha-hu-ha-n-ha.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 ha-ha-hi-ha-hu-ha-n-ha.wa
+                                                  v
+-a---          2021/12/13    16:21         427016 he-he-ho-he-ha-he-n-he.sc
+                                                  ep
+-a---          2021/12/13    16:21           6676 he-he-ho-he-ha-he-n-he.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 he-he-ho-he-ha-he-n-he.wa
+                                                  v
+-a---          2021/12/13    16:21         429576 hi-hi-hu-hi-he-hi-n-hi.sc
+                                                  ep
+-a---          2021/12/13    16:21           6716 hi-hi-hu-hi-he-hi-n-hi.vs
+                                                  sf
+-a---           2021/5/27    22:18         859916 hi-hi-hu-hi-he-hi-n-hi.wa
+                                                  v
+-a---          2021/12/13    16:16         421384 ho-ho-ha-ho-hi-ho-n-ho.sc
+                                                  ep
+-a---          2021/12/13    16:16           6588 ho-ho-ha-ho-hi-ho-n-ho.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 ho-ho-ha-ho-hi-ho-n-ho.wa
+                                                  v
+-a---          2021/12/13    16:19         429576 hu-hu-he-hu-ho-hu-n-hu.sc
+                                                  ep
+-a---          2021/12/13    16:19           6716 hu-hu-he-hu-ho-hu-n-hu.vs
+                                                  sf
+-a---           2021/5/27    22:18         859916 hu-hu-he-hu-ho-hu-n-hu.wa
+                                                  v
+-a---          2021/12/13    16:20         418824 hya-hya-hi-hya-hyu-hya-he
+                                                  -hya-n-hya.scep
+-a---          2021/12/13    16:20           6548 hya-hya-hi-hya-hyu-hya-he
+                                                  -hya-n-hya.vssf
+-a---           2021/5/27    22:18         837868 hya-hya-hi-hya-hyu-hya-he
+                                                  -hya-n-hya.wav
+-a---          2021/12/13    16:16         427016 hyo-hyo-hi-hyo-hya-hyo-he
+                                                  -hyo-n-hyo.scep
+-a---          2021/12/13    16:16           6676 hyo-hyo-hi-hyo-hya-hyo-he
+                                                  -hyo-n-hyo.vssf
+-a---           2021/5/27    22:18         854404 hyo-hyo-hi-hyo-hya-hyo-he
+                                                  -hyo-n-hyo.wav
+-a---          2021/12/13    16:19         423944 hyu-hyu-hi-hyu-hyo-hyu-he
+                                                  -hyu-n-hyu.scep
+-a---          2021/12/13    16:19           6628 hyu-hyu-hi-hyu-hyo-hyu-he
+                                                  -hyu-n-hyu.vssf
+-a---           2021/5/27    22:18         848892 hyu-hyu-hi-hyu-hyo-hyu-he
+                                                  -hyu-n-hyu.wav
+-a---          2021/12/13    16:19         421384 i-i-u-i-e-i-o.scep
+-a---          2021/12/13    16:19           6588 i-i-u-i-e-i-o.vssf
+-a---           2021/5/27    22:18         843380 i-i-u-i-e-i-o.wav
+-a---          2021/12/13    16:19         418824 ja-ja-ji-ja-ju-ja-ze-ja-n
+                                                  -ja.scep
+-a---          2021/12/13    16:19           6548 ja-ja-ji-ja-ju-ja-ze-ja-n
+                                                  -ja.vssf
+-a---           2021/5/27    22:18         837868 ja-ja-ji-ja-ju-ja-ze-ja-n
+                                                  -ja.wav
+-a---          2021/12/13    16:19         418824 ji-ji-zu-ji-ze-ji-n-ji.sc
+                                                  ep
+-a---          2021/12/13    16:19           6548 ji-ji-zu-ji-ze-ji-n-ji.vs
+                                                  sf
+-a---           2021/5/27    22:18         837868 ji-ji-zu-ji-ze-ji-n-ji.wa
+                                                  v
+-a---          2021/12/13    16:16         421384 jo-jo-ji-jo-ja-jo-ze-jo-n
+                                                  -jo.scep
+-a---          2021/12/13    16:16           6588 jo-jo-ji-jo-ja-jo-ze-jo-n
+                                                  -jo.vssf
+-a---           2021/5/27    22:18         843380 jo-jo-ji-jo-ja-jo-ze-jo-n
+                                                  -jo.wav
+-a---          2021/12/13    16:17         421384 ju-ju-ji-ju-jo-ju-ze-ju-n
+                                                  -ju.scep
+-a---          2021/12/13    16:17           6588 ju-ju-ji-ju-jo-ju-ze-ju-n
+                                                  -ju.vssf
+-a---           2021/5/27    22:18         843380 ju-ju-ji-ju-jo-ju-ze-ju-n
+                                                  -ju.wav
+-a---          2021/12/13    16:19         423944 ka-ka-ki-ka-ku-ka-n-ka.sc
+                                                  ep
+-a---          2021/12/13    16:19           6628 ka-ka-ki-ka-ku-ka-n-ka.vs
+                                                  sf
+-a---           2021/5/27    22:18         848892 ka-ka-ki-ka-ku-ka-n-ka.wa
+                                                  v
+-a---          2021/12/13    16:16         427016 ke-ke-ko-ke-ka-ke-n-ke.sc
+                                                  ep
+-a---          2021/12/13    16:16           6676 ke-ke-ko-ke-ka-ke-n-ke.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 ke-ke-ko-ke-ka-ke-n-ke.wa
+                                                  v
+-a---          2021/12/13    16:20         421384 ki-ki-ku-ki-ke-ki-n-ki.sc
+                                                  ep
+-a---          2021/12/13    16:20           6588 ki-ki-ku-ki-ke-ki-n-ki.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 ki-ki-ku-ki-ke-ki-n-ki.wa
+                                                  v
+-a---          2021/12/13    16:16         429576 ko-ko-ka-ko-ki-ko-n-ko.sc
+                                                  ep
+-a---          2021/12/13    16:16           6716 ko-ko-ka-ko-ki-ko-n-ko.vs
+                                                  sf
+-a---           2021/5/27    22:18         859916 ko-ko-ka-ko-ki-ko-n-ko.wa
+                                                  v
+-a---          2021/12/13    16:18         427016 ku-ku-ke-ku-ko-ku-n-ku.sc
+                                                  ep
+-a---          2021/12/13    16:18           6676 ku-ku-ke-ku-ko-ku-n-ku.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 ku-ku-ke-ku-ko-ku-n-ku.wa
+                                                  v
+-a---          2021/12/13    16:20         421384 kya-kya-ki-kya-kyu-kya-ke
+                                                  -kya-n-kya.scep
+-a---          2021/12/13    16:20           6588 kya-kya-ki-kya-kyu-kya-ke
+                                                  -kya-n-kya.vssf
+-a---           2021/5/27    22:18         843380 kya-kya-ki-kya-kyu-kya-ke
+                                                  -kya-n-kya.wav
+-a---          2021/12/13    16:17         421384 kyo-kyo-ki-kyo-kya-kyo-ke
+                                                  -kyo-n-kyo.scep
+-a---          2021/12/13    16:17           6588 kyo-kyo-ki-kyo-kya-kyo-ke
+                                                  -kyo-n-kyo.vssf
+-a---           2021/5/27    22:18         843380 kyo-kyo-ki-kyo-kya-kyo-ke
+                                                  -kyo-n-kyo.wav
+-a---          2021/12/13    16:18         418824 kyu-kyu-ki-kyu-kyo-kyu-ke
+                                                  -kyu-n-kyu.scep
+-a---          2021/12/13    16:18           6548 kyu-kyu-ki-kyu-kyo-kyu-ke
+                                                  -kyu-n-kyu.vssf
+-a---           2021/5/27    22:18         837868 kyu-kyu-ki-kyu-kyo-kyu-ke
+                                                  -kyu-n-kyu.wav
+-a---          2021/12/13    16:20         427016 ma-ma-mi-ma-mu-ma-n-ma.sc
+                                                  ep
+-a---          2021/12/13    16:20           6676 ma-ma-mi-ma-mu-ma-n-ma.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 ma-ma-mi-ma-mu-ma-n-ma.wa
+                                                  v
+-a---          2021/12/14     8:15           2450 main.lsd
+-a---          2021/12/13    15:58         413210 main.vsdxmf
+-a---          2021/12/13    16:21         421384 mi-mi-mu-mi-me-mi-n-mi.sc
+                                                  ep
+-a---          2021/12/13    16:21           6588 mi-mi-mu-mi-me-mi-n-mi.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 mi-mi-mu-mi-me-mi-n-mi.wa
+                                                  v
+-a---          2021/12/13    16:16         432648 mo-mo-ma-mo-mi-mo-n-mo.sc
+                                                  ep
+-a---          2021/12/13    16:16           6764 mo-mo-ma-mo-mi-mo-n-mo.vs
+                                                  sf
+-a---           2021/5/27    22:18         865428 mo-mo-ma-mo-mi-mo-n-mo.wa
+                                                  v
+-a---          2021/12/13    16:18         421384 mu-mu-me-mu-mo-mu-n-mu.sc
+                                                  ep
+-a---          2021/12/13    16:18           6588 mu-mu-me-mu-mo-mu-n-mu.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 mu-mu-me-mu-mo-mu-n-mu.wa
+                                                  v
+-a---          2021/12/13    16:20         429576 mya-mya-mi-mya-myu-mya-me
+                                                  -mya-n-mya.scep
+-a---          2021/12/13    16:20           6716 mya-mya-mi-mya-myu-mya-me
+                                                  -mya-n-mya.vssf
+-a---           2021/5/27    22:18         859916 mya-mya-mi-mya-myu-mya-me
+                                                  -mya-n-mya.wav
+-a---          2021/12/13    16:18         421384 myo-myo-mi-myo-mya-myo-me
+                                                  -myo-n-myo.scep
+-a---          2021/12/13    16:18           6588 myo-myo-mi-myo-mya-myo-me
+                                                  -myo-n-myo.vssf
+-a---           2021/5/27    22:18         843380 myo-myo-mi-myo-mya-myo-me
+                                                  -myo-n-myo.wav
+-a---          2021/12/13    16:16         421384 myu-myu-mi-myu-myo-myu-me
+                                                  -myu-n-myu.scep
+-a---          2021/12/13    16:16           6588 myu-myu-mi-myu-myo-myu-me
+                                                  -myu-n-myu.vssf
+-a---           2021/5/27    22:18         843380 myu-myu-mi-myu-myo-myu-me
+                                                  -myu-n-myu.wav
+-a---          2021/12/13    16:21         427016 n-n-a-n-i-n-u.scep
+-a---          2021/12/13    16:21           6676 n-n-a-n-i-n-u.vssf
+-a---           2021/5/27    22:18         854404 n-n-a-n-i-n-u.wav
+-a---          2021/12/13    16:21         423944 na-na-ni-na-nu-na-n-na.sc
+                                                  ep
+-a---          2021/12/13    16:21           6628 na-na-ni-na-nu-na-n-na.vs
+                                                  sf
+-a---           2021/5/27    22:18         848892 na-na-ni-na-nu-na-n-na.wa
+                                                  v
+-a---          2021/12/13    16:21         423944 ne-ne-no-ne-na-ne-n-ne.sc
+                                                  ep
+-a---          2021/12/13    16:21           6628 ne-ne-no-ne-na-ne-n-ne.vs
+                                                  sf
+-a---           2021/5/27    22:18         848892 ne-ne-no-ne-na-ne-n-ne.wa
+                                                  v
+-a---          2021/12/13    16:21         423944 ni-ni-nu-ni-ne-ni-n-ni.sc
+                                                  ep
+-a---          2021/12/13    16:21           6628 ni-ni-nu-ni-ne-ni-n-ni.vs
+                                                  sf
+-a---           2021/5/27    22:18         848892 ni-ni-nu-ni-ne-ni-n-ni.wa
+                                                  v
+-a---          2021/12/13    16:18         427016 no-no-na-no-ni-no-n-no.sc
+                                                  ep
+-a---          2021/12/13    16:18           6676 no-no-na-no-ni-no-n-no.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 no-no-na-no-ni-no-n-no.wa
+                                                  v
+-a---          2021/12/13    16:17         427016 nu-nu-ne-nu-no-nu-n-nu.sc
+                                                  ep
+-a---          2021/12/13    16:17           6676 nu-nu-ne-nu-no-nu-n-nu.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 nu-nu-ne-nu-no-nu-n-nu.wa
+                                                  v
+-a---          2021/12/13    16:20         427016 nya-nya-ni-nya-nyu-nya-ne
+                                                  -nya-n-nya.scep
+-a---          2021/12/13    16:20           6676 nya-nya-ni-nya-nyu-nya-ne
+                                                  -nya-n-nya.vssf
+-a---           2021/5/27    22:18         854404 nya-nya-ni-nya-nyu-nya-ne
+                                                  -nya-n-nya.wav
+-a---          2021/12/13    16:16         423944 nyo-nyo-ni-nyo-nya-nyo-ne
+                                                  -nyo-n-nyo.scep
+-a---          2021/12/13    16:16           6628 nyo-nyo-ni-nyo-nya-nyo-ne
+                                                  -nyo-n-nyo.vssf
+-a---           2021/5/27    22:18         848892 nyo-nyo-ni-nyo-nya-nyo-ne
+                                                  -nyo-n-nyo.wav
+-a---          2021/12/13    16:19         427016 nyu-nyu-ni-nyu-nyo-nyu-ne
+                                                  -nyu-n-nyu.scep
+-a---          2021/12/13    16:19           6676 nyu-nyu-ni-nyu-nyo-nyu-ne
+                                                  -nyu-n-nyu.vssf
+-a---           2021/5/27    22:18         854404 nyu-nyu-ni-nyu-nyo-nyu-ne
+                                                  -nyu-n-nyu.wav
+-a---          2021/12/13    16:17         423944 o-o-n-o-a-o-i.scep
+-a---          2021/12/13    16:17           6628 o-o-n-o-a-o-i.vssf
+-a---           2021/5/27    22:18         848892 o-o-n-o-a-o-i.wav
+-a---          2021/12/14    10:05          69507 oto.ini
+-a---          2021/12/13    16:19         421384 pa-pa-pi-pa-pu-pa-n-pa.sc
+                                                  ep
+-a---          2021/12/13    16:19           6588 pa-pa-pi-pa-pu-pa-n-pa.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 pa-pa-pi-pa-pu-pa-n-pa.wa
+                                                  v
+-a---          2021/12/13    16:21         423944 pe-pe-po-pe-pa-pe-n-pe.sc
+                                                  ep
+-a---          2021/12/13    16:21           6628 pe-pe-po-pe-pa-pe-n-pe.vs
+                                                  sf
+-a---           2021/5/27    22:18         848892 pe-pe-po-pe-pa-pe-n-pe.wa
+                                                  v
+-a---          2021/12/13    16:21         427016 pi-pi-pu-pi-pe-pi-n-pi.sc
+                                                  ep
+-a---          2021/12/13    16:21           6676 pi-pi-pu-pi-pe-pi-n-pi.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 pi-pi-pu-pi-pe-pi-n-pi.wa
+                                                  v
+-a---          2021/12/13    16:17         427016 po-po-pa-po-pi-po-n-po.sc
+                                                  ep
+-a---          2021/12/13    16:17           6676 po-po-pa-po-pi-po-n-po.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 po-po-pa-po-pi-po-n-po.wa
+                                                  v
+-a---          2021/12/13    16:17         427016 pu-pu-pe-pu-po-pu-n-pu.sc
+                                                  ep
+-a---          2021/12/13    16:17           6676 pu-pu-pe-pu-po-pu-n-pu.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 pu-pu-pe-pu-po-pu-n-pu.wa
+                                                  v
+-a---          2021/12/13    16:20         429576 pya-pya-pi-pya-pyu-pya-pe
+                                                  -pya-n-pya.scep
+-a---          2021/12/13    16:20           6716 pya-pya-pi-pya-pyu-pya-pe
+                                                  -pya-n-pya.vssf
+-a---           2021/5/27    22:18         859916 pya-pya-pi-pya-pyu-pya-pe
+                                                  -pya-n-pya.wav
+-a---          2021/12/13    16:17         421384 pyo-pyo-pi-pyo-pya-pyo-pe
+                                                  -pyo-n-pyo.scep
+-a---          2021/12/13    16:17           6588 pyo-pyo-pi-pyo-pya-pyo-pe
+                                                  -pyo-n-pyo.vssf
+-a---           2021/5/27    22:18         843380 pyo-pyo-pi-pyo-pya-pyo-pe
+                                                  -pyo-n-pyo.wav
+-a---          2021/12/13    16:16         427016 pyu-pyu-pi-pyu-pyo-pyu-pe
+                                                  -pyu-n-pyu.scep
+-a---          2021/12/13    16:16           6676 pyu-pyu-pi-pyu-pyo-pyu-pe
+                                                  -pyu-n-pyu.vssf
+-a---           2021/5/27    22:18         854404 pyu-pyu-pi-pyu-pyo-pyu-pe
+                                                  -pyu-n-pyu.wav
+-a---          2021/12/13    16:20         427016 ra-ra-ri-ra-ru-ra-n-ra.sc
+                                                  ep
+-a---          2021/12/13    16:20           6676 ra-ra-ri-ra-ru-ra-n-ra.vs
+                                                  sf
+-a---           2021/5/27    22:18         854404 ra-ra-ri-ra-ru-ra-n-ra.wa
+                                                  v
+-a---          2021/12/13    16:21         423944 re-re-ro-re-ra-re-n-re.sc
+                                                  ep
+-a---          2021/12/13    16:21           6628 re-re-ro-re-ra-re-n-re.vs
+                                                  sf
+-a---           2021/5/27    22:18         848892 re-re-ro-re-ra-re-n-re.wa
+                                                  v
+-a---          2021/12/13    16:21         421384 ri-ri-ru-ri-re-ri-n-ri.sc
+                                                  ep
+-a---          2021/12/13    16:21           6588 ri-ri-ru-ri-re-ri-n-ri.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 ri-ri-ru-ri-re-ri-n-ri.wa
+                                                  v
+-a---          2021/12/13    16:17         429576 ro-ro-ra-ro-ri-ro-n-ro.sc
+                                                  ep
+-a---          2021/12/13    16:17           6716 ro-ro-ra-ro-ri-ro-n-ro.vs
+                                                  sf
+-a---           2021/5/27    22:18         859916 ro-ro-ra-ro-ri-ro-n-ro.wa
+                                                  v
+-a---          2021/12/13    16:16         423944 ru-ru-re-ru-ro-ru-n-ru.sc
+                                                  ep
+-a---          2021/12/13    16:16           6628 ru-ru-re-ru-ro-ru-n-ru.vs
+                                                  sf
+-a---           2021/5/27    22:18         848892 ru-ru-re-ru-ro-ru-n-ru.wa
+                                                  v
+-a---          2021/12/13    16:20         427016 rya-rya-ri-rya-ryu-rya-re
+                                                  -rya-n-rya.scep
+-a---          2021/12/13    16:20           6676 rya-rya-ri-rya-ryu-rya-re
+                                                  -rya-n-rya.vssf
+-a---           2021/5/27    22:18         854404 rya-rya-ri-rya-ryu-rya-re
+                                                  -rya-n-rya.wav
+-a---          2021/12/13    16:17         427016 ryo-ryo-ri-ryo-rya-ryo-re
+                                                  -ryo-n-ryo.scep
+-a---          2021/12/13    16:17           6676 ryo-ryo-ri-ryo-rya-ryo-re
+                                                  -ryo-n-ryo.vssf
+-a---           2021/5/27    22:18         854404 ryo-ryo-ri-ryo-rya-ryo-re
+                                                  -ryo-n-ryo.wav
+-a---          2021/12/13    16:18         423944 ryu-ryu-ri-ryu-ryo-ryu-re
+                                                  -ryu-n-ryu.scep
+-a---          2021/12/13    16:18           6628 ryu-ryu-ri-ryu-ryo-ryu-re
+                                                  -ryu-n-ryu.vssf
+-a---           2021/5/27    22:18         848892 ryu-ryu-ri-ryu-ryo-ryu-re
+                                                  -ryu-n-ryu.wav
+-a---          2021/12/13    16:20         418824 sa-sa-shi-sa-su-sa-n-sa.s
+                                                  cep
+-a---          2021/12/13    16:20           6548 sa-sa-shi-sa-su-sa-n-sa.v
+                                                  ssf
+-a---           2021/5/27    22:18         837868 sa-sa-shi-sa-su-sa-n-sa.w
+                                                  av
+-a---          2021/12/13    16:21         421384 se-se-so-se-sa-se-n-se.sc
+                                                  ep
+-a---          2021/12/13    16:21           6588 se-se-so-se-sa-se-n-se.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 se-se-so-se-sa-se-n-se.wa
+                                                  v
+-a---          2021/12/13    16:20         421384 sha-sha-shi-sha-shu-sha-s
+                                                  e-sha-n-sha.scep
+-a---          2021/12/13    16:20           6588 sha-sha-shi-sha-shu-sha-s
+                                                  e-sha-n-sha.vssf
+-a---           2021/5/27    22:18         843380 sha-sha-shi-sha-shu-sha-s
+                                                  e-sha-n-sha.wav
+-a---          2021/12/13    16:19         421384 shi-shi-su-shi-se-shi-n-s
+                                                  hi.scep
+-a---          2021/12/13    16:19           6588 shi-shi-su-shi-se-shi-n-s
+                                                  hi.vssf
+-a---           2021/5/27    22:18         843380 shi-shi-su-shi-se-shi-n-s
+                                                  hi.wav
+-a---          2021/12/13    16:17         421384 sho-sho-shi-sho-sha-sho-s
+                                                  e-sho-n-sho.scep
+-a---          2021/12/13    16:17           6588 sho-sho-shi-sho-sha-sho-s
+                                                  e-sho-n-sho.vssf
+-a---           2021/5/27    22:18         843380 sho-sho-shi-sho-sha-sho-s
+                                                  e-sho-n-sho.wav
+-a---          2021/12/13    16:16         421384 shu-shu-shi-shu-sho-shu-s
+                                                  e-shu-n-shu.scep
+-a---          2021/12/13    16:16           6588 shu-shu-shi-shu-sho-shu-s
+                                                  e-shu-n-shu.vssf
+-a---           2021/5/27    22:18         843380 shu-shu-shi-shu-sho-shu-s
+                                                  e-shu-n-shu.wav
+-a---          2021/12/13    16:17         418824 so-so-sa-so-shi-so-n-so.s
+                                                  cep
+-a---          2021/12/13    16:17           6548 so-so-sa-so-shi-so-n-so.v
+                                                  ssf
+-a---           2021/5/27    22:18         837868 so-so-sa-so-shi-so-n-so.w
+                                                  av
+-a---          2021/12/13    16:18         418824 su-su-se-su-so-su-n-su.sc
+                                                  ep
+-a---          2021/12/13    16:18           6548 su-su-se-su-so-su-n-su.vs
+                                                  sf
+-a---           2021/5/27    22:18         837868 su-su-se-su-so-su-n-su.wa
+                                                  v
+-a---          2021/12/13    16:19         418824 ta-ta-chi-ta-tsu-ta-n-ta.
+                                                  scep
+-a---          2021/12/13    16:19           6548 ta-ta-chi-ta-tsu-ta-n-ta.
+                                                  vssf
+-a---           2021/5/27    22:18         837868 ta-ta-chi-ta-tsu-ta-n-ta.
+                                                  wav
+-a---          2021/12/13    16:21         423944 te-te-to-te-ta-te-n-te.sc
+                                                  ep
+-a---          2021/12/13    16:21           6628 te-te-to-te-ta-te-n-te.vs
+                                                  sf
+-a---           2021/5/27    22:18         848892 te-te-to-te-ta-te-n-te.wa
+                                                  v
+-a---          2021/12/13    16:17         429576 to-to-ta-to-chi-to-n-to.s
+                                                  cep
+-a---          2021/12/13    16:17           6716 to-to-ta-to-chi-to-n-to.v
+                                                  ssf
+-a---           2021/5/27    22:18         859916 to-to-ta-to-chi-to-n-to.w
+                                                  av
+-a---          2021/12/13    16:16         418824 tsu-tsu-te-tsu-to-tsu-n-t
+                                                  su.scep
+-a---          2021/12/13    16:16           6548 tsu-tsu-te-tsu-to-tsu-n-t
+                                                  su.vssf
+-a---           2021/5/27    22:18         837868 tsu-tsu-te-tsu-to-tsu-n-t
+                                                  su.wav
+-a---          2021/12/13    16:18         427016 u-u-e-u-o-u-n.scep
+-a---          2021/12/13    16:18           6676 u-u-e-u-o-u-n.vssf
+-a---           2021/5/27    22:18         854404 u-u-e-u-o-u-n.wav
+-a---          2021/12/13    16:20         432648 wa-wa-i-wa-u-wa-e-wa-wo-n
+                                                  -wa.scep
+-a---          2021/12/13    16:20           6764 wa-wa-i-wa-u-wa-e-wa-wo-n
+                                                  -wa.vssf
+-a---           2021/5/27    22:18         865428 wa-wa-i-wa-u-wa-e-wa-wo-n
+                                                  -wa.wav
+-a---          2021/12/13    16:17         435208 wo-wo-i-wo-u-wo-e-wo-wa-n
+                                                  -wo.scep
+-a---          2021/12/13    16:17           6804 wo-wo-i-wo-u-wo-e-wo-wa-n
+                                                  -wo.vssf
+-a---           2021/5/27    22:18         870940 wo-wo-i-wo-u-wo-e-wo-wa-n
+                                                  -wo.wav
+-a---          2021/12/13    16:19         427016 ya-ya-i-ya-yu-ya-e-ya-n-y
+                                                  a.scep
+-a---          2021/12/13    16:19           6676 ya-ya-i-ya-yu-ya-e-ya-n-y
+                                                  a.vssf
+-a---           2021/5/27    22:18         854404 ya-ya-i-ya-yu-ya-e-ya-n-y
+                                                  a.wav
+-a---          2021/12/13    16:17         432648 yo-yo-i-yo-ya-yo-e-yo-n-y
+                                                  o.scep
+-a---          2021/12/13    16:17           6764 yo-yo-i-yo-ya-yo-e-yo-n-y
+                                                  o.vssf
+-a---           2021/5/27    22:18         865428 yo-yo-i-yo-ya-yo-e-yo-n-y
+                                                  o.wav
+-a---          2021/12/13    16:18         435208 yu-yu-i-yu-yo-yu-e-yu-n-y
+                                                  u.scep
+-a---          2021/12/13    16:18           6804 yu-yu-i-yu-yo-yu-e-yu-n-y
+                                                  u.vssf
+-a---           2021/5/27    22:18         870940 yu-yu-i-yu-yo-yu-e-yu-n-y
+                                                  u.wav
+-a---          2021/12/13    16:20         418824 za-za-ji-za-zu-za-n-za.sc
+                                                  ep
+-a---          2021/12/13    16:20           6548 za-za-ji-za-zu-za-n-za.vs
+                                                  sf
+-a---           2021/5/27    22:18         837868 za-za-ji-za-zu-za-n-za.wa
+                                                  v
+-a---          2021/12/13    16:21         418824 ze-ze-zo-ze-za-ze-n-ze.sc
+                                                  ep
+-a---          2021/12/13    16:21           6548 ze-ze-zo-ze-za-ze-n-ze.vs
+                                                  sf
+-a---           2021/5/27    22:18         837868 ze-ze-zo-ze-za-ze-n-ze.wa
+                                                  v
+-a---          2021/12/13    16:18         421384 zo-zo-za-zo-ji-zo-n-zo.sc
+                                                  ep
+-a---          2021/12/13    16:18           6588 zo-zo-za-zo-ji-zo-n-zo.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 zo-zo-za-zo-ji-zo-n-zo.wa
+                                                  v
+-a---          2021/12/13    16:18         421384 zu-zu-ze-zu-zo-zu-n-zu.sc
+                                                  ep
+-a---          2021/12/13    16:18           6588 zu-zu-ze-zu-zo-zu-n-zu.vs
+                                                  sf
+-a---           2021/5/27    22:18         843380 zu-zu-ze-zu-zo-zu-n-zu.wa
+                                                  v
+-a---          2021/12/13    16:19         423944 めめもめまめんめ-me-me-mo-me-ma-m
+                                                  e-n-me.scep
+-a---          2021/12/13    16:19           6628 めめもめまめんめ-me-me-mo-me-ma-m
+                                                  e-n-me.vssf
+-a---           2021/5/27    22:18         848892 めめもめまめんめ-me-me-mo-me-ma-m
+                                                  e-n-me.wav
+
