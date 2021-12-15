@@ -53,7 +53,7 @@ print("====VC====")
 #print("i" in Vs)
 #print("bi" in Vs)
 #input()
-for (V,C) in itertools.product(Vs,Cs|Vs|{""}):
+for (V,C) in itertools.product(Vs|{""},Cs|Vs|{""}):
     VCotokey=Valias.get(V,V)+" "+Calias.get(C,C)
     if(VCotokey in otodict):
         vsdxmfdict[V+" "+C]=VCotokey

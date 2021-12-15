@@ -127,7 +127,7 @@ with open("main.lsd","w",encoding="utf8") as dictfile:
 #生成替换表
 vmconvert={
     "Calias":{value:key for (key,value) in orig.items()}|{"":"-"},
-    "Valias":{i:i[-1] for i in list(orig.values())}
+    "Valias":{i:i[-1] for i in list(orig.values())}|{"":"-"}
 }
 with open("vmconvert.json","w",encoding="utf8") as vmconvertfile:
     json.dump(vmconvert,vmconvertfile,ensure_ascii=False,indent=4)     
