@@ -1,5 +1,5 @@
 # hitsuboku-kumi-jpn-act4-vocalsharp
-**English** | [中文](README_zh.md)
+**English** | [中文](readme_zh.md)
 
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4-vocalsharp) | 
 [Gitee](https://gitee.com/oxygendioxide/hitsuboku-kumi-jpn-act4-vocalsharp) | 
@@ -17,7 +17,6 @@ If you find a bug, please [create an issue](https://github.com/oxygen-dioxide/hi
 
 ## Tech Specs
 - 4 pitches (A3, D4, A4, D5)
-- using Voicemith reclist
 
 ## Links
 [VocalSharp official site](http://vocalsharp.com/)
