@@ -40,14 +40,7 @@ Vs={value[1] for value in lsddict.values()}#元音列表
 #oto转vsdxmf
 vsdxmfdict={}#{vsdxmf记号:oto记号}
 
-#CV
-print("====CV====")
-for (CV,sp) in lsddict.items():
-    if(CV in otodict):
-        vsdxmfdict[sp[0]+" "+sp[1]]=CV
-        #lineconvert(otodict[CV],sp[0]+" "+sp[1])
-    else:
-        print(CV+" 缺失")
+
 #VC、VV
 print("====VC====")
 #print("i" in Vs)
@@ -91,7 +84,8 @@ for C in (Cs|Vs)-{""," "}:
     if(not(" "+C in vsdxmfdict)):
         print("开头音"+" "+C)
         begins.append(" "+C)
-vsdxmf.append([begins,"empty.wav",1100,1300,1400,1500,1200])
+if(begins!=[]):
+    vsdxmf.append([begins,"empty.wav",1100,1300,1400,1500,1200])
 
 #输出vsdxmf文件
 with open(otopath.replace("oto.ini","main.vsdxmf"),"w",encoding="utf8") as vsdxmffile:
