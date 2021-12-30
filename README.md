@@ -18,6 +18,9 @@ If you find a bug, please [create an issue](https://github.com/oxygen-dioxide/hi
 ## Tech Specs
 - 4 pitches (A3, D4, A4, D5)
 
+## Contributor notice
+Currently please don't create pull requests, especially those about .vsdxmf files. Because vsdxmf files are generated from oto.ini by my python script each time I build this voicebank. If you want to fix a bug or implement a function, Please [create an issue](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4-vocalsharp/issues/new) to let me know.
+
 ## Links
 [VocalSharp official site](http://vocalsharp.com/)
 
