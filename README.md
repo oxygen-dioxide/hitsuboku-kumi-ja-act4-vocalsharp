@@ -15,6 +15,12 @@ If you like this voicebank, please give her a star.
 
 If you find a bug, please [create an issue](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4-vocalsharp/issues/new) to report it.
 
+## Demo
+[スレッドネイション](https://www.bilibili.com/video/av765459311)（made by Cubialpha）
+
+##  Download
+[Github Release](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-vocalsharp/releases)
+
 ## Tech Specs
 - 4 pitches (A3, D4, A4, D5)
 
