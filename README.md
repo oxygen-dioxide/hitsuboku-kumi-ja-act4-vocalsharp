@@ -1,5 +1,5 @@
 # hitsuboku-kumi-jpn-act4-vocalsharp
-**English** | [中文](readme_zh.md)
+**English** | [中文](README_zh.md)
 
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4-vocalsharp) | 
 [Gitee](https://gitee.com/oxygendioxide/hitsuboku-kumi-jpn-act4-vocalsharp) | 

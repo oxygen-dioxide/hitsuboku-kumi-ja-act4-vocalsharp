@@ -1,6 +1,11 @@
+#Adobe Audition
+*.pkf
+
+#VocalSharp
 *.scep
 *.vssf
 *.vsdx
 *.vsdxindex
 
+#Packed binary
 *.7z
