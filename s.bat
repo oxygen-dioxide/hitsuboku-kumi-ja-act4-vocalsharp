@@ -4,3 +4,5 @@ copy %1 a4\
 copy %1 d5\
 copy %1 Strong_D4\
 copy %1 Strong_D5\
+copy %1 Whisper_C4\
+copy %1 Whisper_C5\
