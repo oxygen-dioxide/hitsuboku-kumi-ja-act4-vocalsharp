@@ -1,4 +1,5 @@
 # hitsuboku-kumi-jpn-act4-vocalsharp
+
 **English** | [中文](README_zh.md)
 
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4-vocalsharp) | 
@@ -19,7 +20,9 @@ If you find a bug, please [create an issue](https://github.com/oxygen-dioxide/hi
 [スレッドネイション](https://www.bilibili.com/video/av765459311)（made by Cubialpha）
 
 ##  Download
-[Github Release](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-vocalsharp/releases)
+- [Download from Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-vocalsharp/releases)
+- [Download from Aliyun Drive](https://www.aliyundrive.com/s/WgxsQyzNQW9)
+- [Download from Tencent Weiyun](https://share.weiyun.com/qc1I39yh)
 
 ## Tech Specs
 - 4 pitches (A3, D4, A4, D5)
@@ -28,8 +31,6 @@ If you find a bug, please [create an issue](https://github.com/oxygen-dioxide/hi
 Currently please don't create pull requests, especially those about .vsdxmf files. Because vsdxmf files are generated from oto.ini with my python script each time I build this voicebank. If you want to fix a bug or implement a function, Please [create an issue](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4-vocalsharp/issues/new) to let me know.
 
 ## Links
-[VocalSharp official site](http://vocalsharp.com/)
-
-[Hitsuboku Kumi official site](https://cubialpha.wixsite.com/koomstar)
-
-[Cubialpha's bilibili channel](https://space.bilibili.com/522152972)
+- [VocalSharp official site](http://vocalsharp.com/)
+- [Hitsuboku Kumi official site](https://cubialpha.wixsite.com/koomstar)
+- [Cubialpha's bilibili channel](https://space.bilibili.com/522152972)

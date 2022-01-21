@@ -20,7 +20,9 @@ Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目�
 [スレッドネイション](https://www.bilibili.com/video/av765459311)（由Cubialpha制作）
 
 ## 下载
-[Github Release](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-vocalsharp/releases)
+- [从Github下载](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-vocalsharp/releases)
+- [从阿里云盘下载](https://www.aliyundrive.com/s/WgxsQyzNQW9)
+- [从腾讯微云下载](https://share.weiyun.com/qc1I39yh)
 
 ## 技术规格
 - 4音阶 (A3, D4, A4, D5)
